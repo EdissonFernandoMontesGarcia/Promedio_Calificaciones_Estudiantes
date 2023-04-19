@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promedio_Calificaciones_Estudiantes", "Promedio_Calificaciones_Estudiantes.csproj", "{62E6A8BA-63F9-4F03-AB61-B0ED65D3FD4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda_Ropa_Femenina", "..\Tienda_Ropa_Femenina\Tienda_Ropa_Femenina.csproj", "{F335B761-0DC3-49ED-A65E-59A420DC20C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E6A8BA-63F9-4F03-AB61-B0ED65D3FD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E6A8BA-63F9-4F03-AB61-B0ED65D3FD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E6A8BA-63F9-4F03-AB61-B0ED65D3FD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E6A8BA-63F9-4F03-AB61-B0ED65D3FD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F335B761-0DC3-49ED-A65E-59A420DC20C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F335B761-0DC3-49ED-A65E-59A420DC20C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F335B761-0DC3-49ED-A65E-59A420DC20C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F335B761-0DC3-49ED-A65E-59A420DC20C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBC4B23-6F89-4526-B996-6557233FC993}
+	EndGlobalSection
+EndGlobal
